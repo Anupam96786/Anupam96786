@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Anupam 👋
 
-<!--
-**Anupam96786/Anupam96786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: A "secret" talent
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other coders
+- 💬 Ask me about anything
+- 📫 Connect me via: "anupam96786@gmail.com"
+- ⚡ Fun fact: Sometimes forget to eat
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Anupam96786&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="An error occurred to fetch GitHub status" style="width: fit-content" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam96786&layout=compact&theme=dark" alt="An error occurred to fetch most used languages" style="width: fit-content" height="180em">
+</div>
+<img src="https://activity-graph.herokuapp.com/graph?username=Anupam96786&theme=xcode">
