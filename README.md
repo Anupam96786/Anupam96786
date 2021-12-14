@@ -160,10 +160,10 @@
 ## Connect with me:
 <p align="left">
     <a href="https://linkedin.com/in/anupam96786" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
             alt="anupam96786" height="30" width="40" /></a>
     <a href="https://fb.com/anupam.samanta.5815" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
             alt="anupam.samanta.5815" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/anupam96786" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
