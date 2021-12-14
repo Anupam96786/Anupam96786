@@ -8,7 +8,9 @@
 
 [comment]: <> (- ⚡ Fun fact: Sometimes forget to eat)
 
-## ℹ️ &nbsp;Github Info
+<br>
+
+## Github Info
 
 <details>
     <summary><b>🔎 Github Profile Details</b></summary>
@@ -55,6 +57,8 @@
                 alt="Anupam96786" /></a>
     </p>
 </details>
+
+<br>
 
 ## Languages and Tools:
 ### Languages
@@ -134,6 +138,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
         alt="redis" width="40" height="40" />
 </a>
+
+<br>
 
 ## Connect with me:
 <p align="left">
