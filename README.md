@@ -11,52 +11,41 @@
 <br>
 
 ## Github Info
+### 🔎 Github Profile Details
+<p align="center">
+    <img height="180em"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anupam96786&theme=github_dark"
+        alt="Anupam96786" align="center" />
+</p>
 
-<details>
-    <summary><b>🔎 Github Profile Details</b></summary>
-    <p align="center">
-        <img height="180em"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anupam96786&theme=github_dark"
-            alt="Anupam96786" align="center" />
-    </p>
-</details>
+### ⚡ Github Stats
+<p align="center">
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=Anupam96786&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"
+        alt="Anupam96786" align="center" />
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam96786&layout=compact&theme=dark&hide=jupyter%20notebook&hide_border=true"
+        alt="Anupam96786" align="center" />
+</p>
 
-<details>
-    <summary><b>⚡ Github Stats</b></summary>
-    <p align="center">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=Anupam96786&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"
-            alt="Anupam96786" align="center" />
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam96786&layout=compact&theme=dark&hide=jupyter%20notebook&hide_border=true"
-            alt="Anupam96786" align="center" />
-    </p>
-</details>
+### 🔥 Github Streaks
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anupam96786&theme=dark&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397"
+        alt="Anupam96786" />
+</p>
 
-<details>
-    <summary><b>🔥 Github Streaks</b></summary>
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anupam96786&theme=dark&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397"
-            alt="Anupam96786" />
-    </p>
-</details>
+### 📊 Github Contribution Graph
+<p align="center">
+    <a href="#"><img alt="Anupam's Activity Graph"
+            src="https://activity-graph.herokuapp.com/graph?username=Anupam96786&theme=xcode&line=e05397&point=FFFFFF&hide_border=true&" /></a>
+</p>
 
-<details>
-    <summary><b>📊 Github Contribution Graph</b></summary>
-    <p align="center">
-        <a href="#"><img alt="Anupam's Activity Graph"
-                src="https://activity-graph.herokuapp.com/graph?username=Anupam96786&theme=xcode&line=e05397&point=FFFFFF&hide_border=true&" /></a>
-    </p>
-</details>
-
-<details>
-    <summary><b>🏆 Github Achievements</b></summary>
-    <p align="center">
-        <a href="https://github.com/Anupam96786"><img
-                src="https://github-profile-trophy.vercel.app/?username=Anupam96786&margin-w=5&theme=darkhub"
-                alt="Anupam96786" /></a>
-    </p>
-</details>
+### 🏆 Github Achievements
+<p align="center">
+    <a href="https://github.com/Anupam96786"><img
+            src="https://github-profile-trophy.vercel.app/?username=Anupam96786&margin-w=5&theme=darkhub"
+            alt="Anupam96786" /></a>
+</p>
 
 <br>
 
