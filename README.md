@@ -10,6 +10,12 @@
 
 <br>
 
+<div align="center">
+
+![](https://visitor-badge.glitch.me/badge?page_id=Anupam96786)
+
+</div>
+
 ## Github Info
 ### 🔎 Github Profile Details
 <p align="center">
