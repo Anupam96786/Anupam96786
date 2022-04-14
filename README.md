@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate with **other coders**
 - 💬 Ask me about **anything**
 - 📫 Connect me via: **anupam96786@gmail.com**
-
-[comment]: <> (- ⚡ Fun fact: Sometimes forget to eat)
+- ⚡ Fun fact: **loading...**
 
 <br>
 
