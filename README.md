@@ -109,7 +109,7 @@ def my_life():
 
 ### Frameworks
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg"
         alt="django" width="40" height="40" />
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
