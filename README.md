@@ -20,7 +20,7 @@
 DREAMS = True
 def my_life():
     contribution = 0
-    while DREAMS:
+    while DREAMS and not dead:
         consistency = planing()
         growth = hard_work() + smart_work()
         success = evaluate(growth, consistency)
