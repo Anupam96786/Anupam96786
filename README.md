@@ -1,5 +1,11 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="37"> , I'm Anupam
 
+<div align="center">
+
+![](https://visitor-badge.glitch.me/badge?page_id=Anupam96786)
+
+</div>
+
 - 🔭 I’m currently working on: **A "secret" skill**
 - 🌱 I’m currently learning **everything**
 - 👯 I’m looking to collaborate with **other coders**
@@ -8,12 +14,6 @@
 - ⚡ Fun fact: **loading...**
 
 <br>
-
-<div align="center">
-
-![](https://visitor-badge.glitch.me/badge?page_id=Anupam96786)
-
-</div>
 
 ## Github Info
 ### 🔎 Github Profile Details
