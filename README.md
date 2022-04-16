@@ -116,6 +116,14 @@ def my_life():
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" />
 </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"
+        alt="reactJS" width="40" height="40" />
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg"
+        alt="nextJS" width="40" height="40" />
+</a>
 
 ### Tools
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
