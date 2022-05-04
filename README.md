@@ -15,7 +15,6 @@
 
 <br>
 
-
 ## About Me
 
 ```python
@@ -36,8 +35,11 @@ def my_life():
 
 <br>
 
+
 ## Github Info
+
 ### 🔎 Github Profile Details
+
 <p align="center">
     <img height="180em"
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anupam96786&theme=github_dark"
@@ -75,8 +77,11 @@ def my_life():
 
 <br>
 
+
 ## Languages and Tools:
+
 ### Languages
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python" width="40" height="40" />
