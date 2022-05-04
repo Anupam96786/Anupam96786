@@ -15,6 +15,7 @@
 
 <br>
 
+
 ## About Me
 
 ```python
@@ -36,7 +37,9 @@ def my_life():
 <br>
 
 ## Github Info
+
 ### 🔎 Github Profile Details
+
 <p align="center">
     <img height="180em"
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anupam96786&theme=github_dark"
@@ -44,6 +47,7 @@ def my_life():
 </p>
 
 ### ⚡ Github Stats
+
 <p align="center">
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=Anupam96786&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"
@@ -54,18 +58,21 @@ def my_life():
 </p>
 
 ### 🔥 Github Streaks
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anupam96786&theme=dark&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397"
         alt="Anupam96786" />
 </p>
 
 ### 📊 Github Contribution Graph
+
 <p align="center">
     <a href="#"><img alt="Anupam's Activity Graph"
             src="https://activity-graph.herokuapp.com/graph?username=Anupam96786&theme=xcode&line=e05397&point=FFFFFF&hide_border=true&" /></a>
 </p>
 
 ### 🏆 Github Achievements
+
 <p align="center">
     <a href="https://github.com/Anupam96786"><img
             src="https://github-profile-trophy.vercel.app/?username=Anupam96786&margin-w=5&theme=darkhub"
@@ -75,7 +82,9 @@ def my_life():
 <br>
 
 ## Languages and Tools:
+
 ### Languages
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python" width="40" height="40" />
@@ -109,6 +118,7 @@ def my_life():
 </a>
 
 ### Frameworks
+
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg"
         alt="django" width="40" height="40" />
@@ -127,6 +137,7 @@ def my_life():
 </a>
 
 ### Tools
+
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"
         alt="pycharm" width="40" height="40" />
@@ -180,6 +191,7 @@ def my_life():
 <br>
 
 ## Connect with me:
+
 <p align="left">
     <a href="https://linkedin.com/in/anupam96786" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
