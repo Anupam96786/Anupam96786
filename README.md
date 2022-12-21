@@ -60,11 +60,11 @@ def my_life():
         alt="Anupam96786" />
 </p>
 
-### 📊 Github Contribution Graph
+<!-- ### 📊 Github Contribution Graph
 <p align="center">
     <a href="#"><img alt="Anupam's Activity Graph"
             src="https://activity-graph.herokuapp.com/graph?username=Anupam96786&theme=xcode&line=e05397&point=FFFFFF&hide_border=true&" /></a>
-</p>
+</p> -->
 
 ### 🏆 Github Achievements
 <p align="center">
@@ -76,7 +76,7 @@ def my_life():
 <br>
 
 
-## Languages and Tools:
+<!-- ## Languages and Tools:
 ### Languages
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -201,4 +201,4 @@ def my_life():
     <a href="https://www.hackerrank.com/anupam96786" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="anupam96786" height="30" width="40" /></a>
-</p>
+</p> -->
