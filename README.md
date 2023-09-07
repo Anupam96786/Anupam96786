@@ -135,7 +135,7 @@ def my_life():
 <br>
 
 <h2>My Contribution Graph</h2>
-<p>You can check my actual contributions <a href="#user-activity-overview">here</a>. It seems like the snake is consuming everything below.</p>
+<p>It seems like the snake is consuming everything below. To can check my actual contributions <a href="#user-activity-overview">click here</a>.</p>
 <div>
   <img src="https://raw.githubusercontent.com/Anupam96786/Anupam96786/output/snake.svg" alt="Snake animation" />
 </div>
