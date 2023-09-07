@@ -91,9 +91,9 @@ def my_life():
 
 <br>
 
-<h2 align="left">Languages and Tools:</h2>
-<h3 align="left">Languages</h3>
-<div align="left">
+<h2>Languages and Tools:</h2>
+<h3>Languages</h3>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="margin-right: 10px" />
@@ -105,8 +105,8 @@ def my_life():
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" style="margin-right: 10px" />
 </div>
 
-<h3 align="left">Frameworks & Libraries</h3>
-<div align="left">
+<h3>Frameworks & Libraries</h3>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="angularjs logo" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" style="margin-right: 10px" />
@@ -116,8 +116,8 @@ def my_life():
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" style="margin-right: 10px" />
 </div>
 
-<h3 align="left">Tools</h3>
-<div align="left">
+<h3>Tools</h3>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" style="margin-right: 10px" />
@@ -134,4 +134,8 @@ def my_life():
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Anupam96786/Anupam96786/output/snake.svg" alt="Snake animation" />
+<h2>My Contribution Graph</h2>
+<p>Check the actual contribution graph below. Because snake is eating everything here.</p>
+<div>
+  <img src="https://raw.githubusercontent.com/Anupam96786/Anupam96786/output/snake.svg" alt="Snake animation" />
+</div>
