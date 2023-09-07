@@ -62,7 +62,7 @@ def my_life():
 <h2>Github Info</h2>
 <h3>Github Profile Details</h3>
 
-<div>
+<div align="center">
     <img height="180em"
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anupam96786&theme=github_dark"
         alt="Anupam96786" align="center" />
