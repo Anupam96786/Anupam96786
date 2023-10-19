@@ -63,31 +63,96 @@ def my_life():
 <h3>Github Profile Details</h3>
 
 <div align="center">
-    <img height="180em"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anupam96786&theme=github_dark"
-        alt="Anupam96786" align="center" />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anupam96786&theme=github_dark"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anupam96786"
+      />
+      <img
+        alt="github profile details"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anupam96786"
+        height="150"
+      />
+    </picture>
 </div>
 
 <h3>Github Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anupam96786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&border_radius=5" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anupam96786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&border_radius=5&hide=jupyter%20notebook" height="150" alt="languages graph"  />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=Anupam96786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&border_radius=5"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api?username=Anupam96786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&border_radius=5"
+      />
+      <img
+        alt="github stats graph"
+        src="https://github-readme-stats.vercel.app/api?username=Anupam96786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&border_radius=5"
+        height="150"
+      />
+    </picture>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Anupam96786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&border_radius=5&hide=jupyter%20notebook"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Anupam96786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&border_radius=5&hide=jupyter%20notebook"
+      />
+      <img
+        alt="github languages graph"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Anupam96786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&border_radius=5&hide=jupyter%20notebook"
+        height="150"
+      />
+    </picture>
 </div>
 
 <h3>Github Streaks</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anupam96786&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://streak-stats.demolab.com?user=Anupam96786&locale=en&mode=weekly&theme=github_dark&border_radius=5"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://streak-stats.demolab.com?user=Anupam96786&locale=en&mode=weekly&border_radius=5"
+      />
+      <img
+        alt="github streaks"
+        src="https://streak-stats.demolab.com?user=Anupam96786&locale=en&mode=weekly&border_radius=5"
+        height="150"
+      />
+    </picture>
 </div>
 
 ### 🏆 Github Achievements
 
-<p align="center">
-    <a href="https://github.com/Anupam96786"><img
-            src="https://github-profile-trophy.vercel.app/?username=Anupam96786&margin-w=5&theme=darkhub"
-            alt="Anupam96786" /></a>
-</p>
+<div align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-trophy.vercel.app/?username=Anupam96786&margin-w=5&theme=darkhub"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-trophy.vercel.app/?username=Anupam96786&margin-w=5"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://github-profile-trophy.vercel.app/?username=Anupam96786&margin-w=5"
+      />
+    </picture>
+</div>
 
 <br>
 
@@ -135,7 +200,20 @@ def my_life():
 <br>
 
 <h2>My Contribution Graph</h2>
-<p>It seems like the snake is consuming everything below. To can check my actual contributions <a href="#user-activity-overview">click here</a>.</p>
-<div>
-  <img src="https://raw.githubusercontent.com/Anupam96786/Anupam96786/output/snake.svg" alt="Snake animation" />
+<div align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/Anupam96786/Anupam96786/output/snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/Anupam96786/Anupam96786/output/snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/Anupam96786/Anupam96786/output/snake.svg"
+      />
+    </picture>
 </div>
+<p>It seems like the snake is consuming everything below. To can check my actual contributions <a href="#user-activity-overview">click here</a>.</p>
