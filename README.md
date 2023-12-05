@@ -216,4 +216,4 @@ def my_life():
       />
     </picture>
 </div>
-<p>It seems like the snake is consuming everything below. To can check my actual contributions <a href="#user-activity-overview">click here</a>.</p>
+<p>It seems like the snake is consuming everything above. To check my actual contributions <a href="#user-activity-overview">click here</a>.</p>
