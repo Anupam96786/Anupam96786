@@ -121,15 +121,15 @@ def my_life():
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://streak-stats.demolab.com?user=Anupam96786&locale=en&mode=weekly&theme=github_dark&border_radius=5"
+        srcset="https://streak-stats.demolab.com?user=Anupam96786&locale=en&theme=github_dark&border_radius=5"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://streak-stats.demolab.com?user=Anupam96786&locale=en&mode=weekly&border_radius=5"
+        srcset="https://streak-stats.demolab.com?user=Anupam96786&locale=en&border_radius=5"
       />
       <img
         alt="github streaks"
-        src="https://streak-stats.demolab.com?user=Anupam96786&locale=en&mode=weekly&border_radius=5"
+        src="https://streak-stats.demolab.com?user=Anupam96786&locale=en&border_radius=5"
         height="150"
       />
     </picture>
